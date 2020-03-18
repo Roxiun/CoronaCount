@@ -12,6 +12,8 @@ Currently only supports MacOS. Linux & Windows support are comming soon.
 
 Head over to the release section, download the file and then open the application or run the python code.
 
+**Note**: The version in the releases section will not work if you do now have python3 & rumps installed. This will be patched in a future version
+
 ## How do I run the python code?
 
 -   Install `python3`
