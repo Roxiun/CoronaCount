@@ -1,5 +1,7 @@
 # Corona Count
 
+https://img.shields.io/github/downloads/Roxiun/CoronaCount/total
+
 ## What is it?
 
 Corona count is a application that shows the current amount of COVID-19 cases in your status bar/menu bar
