@@ -1,6 +1,6 @@
 # Corona Count
 
-[![Downloads](https://img.shields.io/github/downloads/Roxiun/CoronaCount/total)](https://github.com/Roxiun/CoronaCount/releases)
+[![Downloads](https://img.shields.io/github/downloads/Roxiun/CoronaCount/total)](https://github.com/Roxiun/CoronaCount/releases)]
 
 ## What is it?
 
